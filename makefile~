@@ -1,0 +1,2 @@
+main: TreeType.cpp TreeDr.cpp
+	g++ -o TreeDr TreeType.cpp TreeDr.cpp
